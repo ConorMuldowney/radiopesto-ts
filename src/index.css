@@ -1,0 +1,12 @@
+:root {
+  --primary-background-light: #6cd799;
+  --secondary-background-light: #ed7980;
+  --primary-text-light: #000;
+  --primary-background-dark: #5d4480;
+  --secondary-background-dark: #804164;
+  --primary-text-dark: #fff;
+}
+
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
